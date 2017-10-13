@@ -1,0 +1,48 @@
+.navbar-light .navbar-brand {
+    color: #2196F3;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.jumbotron img{
+  width: 80%
+}
+.jumbotron1{
+  background-color: #d4d4d4;
+  background-repeat:no-repeat;
+  background-size: cover;
+text
+}
+
+.display-3 {
+    font-size: 4.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+    color: rgb(96, 102, 135);
+    font: roboto
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #464d51;
+    border-color: white;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #5d61b9;
+    border-color: white;
+}
+
+.carousel{
+  align-items: center
+  center;
+.first {
+
+}
+.jumbotron.second {
+
+}
